@@ -1,0 +1,5 @@
+gitadd universo leigo333
+gitcommit-m¨Água verde¨
+gitbrunch -Mleigo333
+gitremote addorigin https://github.com/rafaelanegri1210-hash/Universo-leigo-333.git
+gitpush -u origin leigo333
